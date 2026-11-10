@@ -3,7 +3,7 @@
 <h2>👨‍💻 ServiceNow CSA Projects:</h2>
 
 - <b>ServiceNow User Administration</b>
-  - [Managing Users, Groups, and Roles](https://github.com/JahmarWilliams/ticket-lifecycle)
+  - [Managing Users, Groups, and Roles]()
   
 <h2>👨‍💻 Information Technology Projects:</h2>
 

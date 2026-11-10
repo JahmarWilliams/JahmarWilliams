@@ -1,5 +1,10 @@
-<h1>Hi, I'm Jahmar, an <a href="[https://linkedin.com/in/Josh](https://www.linkedin.com/in/jahmar-williams-218752265/)">IT Professional</a>!</h1>
+<h1>Hi, I'm Jahmar, an <a href="(https://www.linkedin.com/in/jahmar-williams-218752265/)">IT Professional and ServiceNow CSA</a>!</h1>
 
+<h2>👨‍💻 ServiceNow CSA Projects:</h2>
+
+- <b>ServiceNow User Administration</b>
+  - [Managing Users, Groups, and Roles](https://github.com/JahmarWilliams/ticket-lifecycle)
+  
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
